@@ -51,15 +51,3 @@ Ikuti instruksi dalam notebook untuk memasukkan gejala dan mendapatkan hasil dia
 └── Sistem_Pakar.ipynb            # Notebook utama sistem pakar
 ```
 
-## 🤝 Kontribusi
-
-Kontribusi sangat terbuka! Jika Anda ingin menambahkan fitur baru atau memperbaiki bug, silakan fork repositori ini dan ajukan pull request.
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-Untuk informasi lebih lanjut, silakan kunjungi [repositori GitHub](https://github.com/RajaNaufal011/Sistem_Pakar-Forward-Chaining-Backward-Chaining-).
-
